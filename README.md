@@ -7,9 +7,6 @@ I’m a passionate **Software Engineer Student** with a love for building, learn
 
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssef88ab&show_icons=true&theme=radical)
 
----
-
----
 
 ## 🤝 Let’s Connect
 
