@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I’m Youssef!
 
-<!--
-**youssef88ab/youssef88ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a passionate **Software Engineer Student** with a love for building, learning, and solving problems—especially with **Java**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🧑‍💻 Currently pursuing a career in software engineering.
+- 💡 Always eager to experiment with new technologies and take on new challenges.
+- 🌱 Constantly learning and improving my skills, with a strong focus on Java.
+
+---
+
+## 🛠️ Top Skills
+
+- **Java** (main language & favorite toolkit)
+- Exposure to **Web Development** (Angular, React)
+- Problem solving & clean code principles
+
+---
+
+## 🌟 Featured Project
+
+[![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=youssef88ab&repo=my-portfolio)](https://github.com/youssef88ab/my-portfolio)
+
+---
+
+## 📈 GitHub Stats
+
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssef88ab&show_icons=true&theme=radical)
+
+---
+
+## 📚 Notable Repositories
+
+- [digitribe/wize-dashboard-monitor](https://github.com/digitribe/wize-dashboard-monitor)  
+- [ecommerce-java-angular](https://github.com/youssef88ab/ecommerce-java-angular)  
+- [LeetCode](https://github.com/youssef88ab/LeetCode)  
+- [Setup-Dashboard_React](https://github.com/zineb-kbyla/Setup-Dashboard_React)
+
+---
+
+## 🤝 Let’s Connect
+
+<!-- You can add your LinkedIn or personal website here if you want! -->
+Feel free to check out my featured repos and reach out for collaboration or discussion.
+
+---
+
+> “The best way to predict the future is to invent it.”  
+> — Alan Kay
